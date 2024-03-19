@@ -135,7 +135,7 @@ body {
 - `.container`: Defines the main content area's width, maximum width, and minimum height. It uses a light beige background (`#faedcd`), a solid black border, and rounded corners.
 - `.sub-container`: A smaller container within `.container`, taking up 80% of its parent’s width, for grouping specific elements like the quote and button.
 
-#### Content Styles
+### Content Styles
 
 ```css
 #title {
