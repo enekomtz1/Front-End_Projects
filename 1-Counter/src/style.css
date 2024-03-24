@@ -1,0 +1,40 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  color: white;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+body {
+  background-color: #000814;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+.count-container {
+  font-size: 6rem;
+}
+
+.btns-container {
+  width: 13rem;
+  display: flex;
+  justify-content: space-around;
+}
+
+.btn{
+    padding: 10px 40px;
+    border: 0;
+    border-radius: 15px;
+    font-size: 2rem;
+    background-color: #001d3d;
+    cursor: pointer;
+}
+
+.btn:hover{
+    background-color: #003566;
+}
