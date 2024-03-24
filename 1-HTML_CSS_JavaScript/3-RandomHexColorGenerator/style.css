@@ -1,0 +1,59 @@
+/* General style */
+
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Verdana, sans-serif;
+}
+
+body{
+    height: 100vh;
+    background-color: #2B807B;
+    text-align: center;
+}
+
+.center-flex{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+/* Container */
+
+#container{
+    height: 220px;
+    width: 450px;
+    background-color: white;
+    border: 5px solid black;
+    flex-wrap: wrap;
+    flex-direction: column;
+    border-radius: 20px;
+}
+
+
+/* Text */
+
+#color{
+font-size: 70px;
+font-weight: bold;
+}
+
+
+/* Button */
+
+button{
+    font-size: 30px;
+    color: black;
+    border-radius: 20px;
+    background-color: lightgrey;
+    margin: 15px;
+    padding: 10px 30px;
+    user-select: none;
+    cursor: pointer;
+    transition-duration: 0.4s;
+}
+
+button:hover{
+    background-color: lightskyblue;
+}
