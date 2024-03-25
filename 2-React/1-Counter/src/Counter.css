@@ -3,7 +3,7 @@
   margin: 0;
   box-sizing: border-box;
   color: white;
-  font-family: 'Times New Roman', Times, serif;
+  font-family: "Times New Roman", Times, serif;
 }
 
 body {
@@ -26,15 +26,15 @@ body {
   justify-content: space-around;
 }
 
-.btn{
-    padding: 10px 40px;
-    border: 0;
-    border-radius: 15px;
-    font-size: 2rem;
-    background-color: #001d3d;
-    cursor: pointer;
+.btn {
+  padding: 10px 40px;
+  border: 0;
+  border-radius: 15px;
+  font-size: 2rem;
+  background-color: #001d3d;
+  cursor: pointer;
 }
 
-.btn:hover{
-    background-color: #003566;
+.btn:hover {
+  background-color: #003566;
 }

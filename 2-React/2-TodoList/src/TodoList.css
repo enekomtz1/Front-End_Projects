@@ -1,0 +1,73 @@
+/* Resets default padding, margin, and sets box-sizing to border-box for all elements */
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: "Times New Roman", Times, serif;
+  font-size: medium;
+}
+
+/* Styles the body with a dark background, full height, and centers content */
+body {
+  background: #003049;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  margin-top: 50px;
+}
+
+/* Styles the main container with a lighter background, padding, and rounded corners */
+.container {
+  background: #669bbc;
+  padding: 50px;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.title {
+  color: #003049;
+  font-size: 40px;
+  padding: 20px;
+}
+
+.input-group,
+.todos-list {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  width: 400px;
+  height: 50px;
+  margin-bottom: 10px;
+}
+
+input,
+.todo-text {
+  width: 350px;
+  height: 50px;
+  padding: 15px;
+  border: none;
+  outline: none;
+  background-color: white;
+  border-radius: 10px;
+}
+
+button {
+  background-color: transparent;
+  border: none;
+  color: white;
+  cursor: pointer;
+  width: 30px;
+  height: 30px;
+}
+
+button svg {
+  width: 30px;
+  height: 30px;
+}
+
+.close-btn {
+  color: #D62839;
+}
