@@ -2,7 +2,7 @@
 - Given a String, return its most used character.
 */
 
-/*  Examples
+/*  Examples:
 - maxChar('abcccccccd') === 'c'
 - maxChar('apple 1231111') === '1'
 */
@@ -27,5 +27,5 @@ function maxChar(str) {
   return maxChar + ": " + valueCount;
 }
 
-console.log(maxChar("abcccccccd")); //Output: 'c: 7'
-console.log(maxChar("apple 1231111")); //Output: '1: 5'
+console.log(maxChar("abcccccccd"));     //Output: 'c: 7'
+console.log(maxChar("apple 1231111"));  //Output: '1: 5'

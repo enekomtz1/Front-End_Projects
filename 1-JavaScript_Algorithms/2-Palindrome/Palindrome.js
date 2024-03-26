@@ -3,7 +3,7 @@
 - Given a string, return True if a String is a palindrome or False if it's not.
 */
 
-/*  Examples
+/*  Examples:
 - palindrome("madam") === true
 - palindrome("kayak") === true
 - palindrome("hello") === false     (reversed = "olleh")
