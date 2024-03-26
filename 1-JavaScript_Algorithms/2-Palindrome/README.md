@@ -13,7 +13,7 @@ The Palindrome Checker is a JavaScript utility designed to evaluate whether a gi
 - [Examples](#examples)
 - [Contributors](#contributors)
 - [License](#license)
-- [Links](#🔗 Links)
+- [Links](#links)
 
 ## Screenshot
 
@@ -55,6 +55,6 @@ This project is currently maintained by a solo developer. Contributions, suggest
 
 This project is open-sourced under the MIT License.
 
-## 🔗 Links
+## Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/enekomtz1)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/enekomtz)
