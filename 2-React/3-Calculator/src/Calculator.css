@@ -1,0 +1,74 @@
+/* Resets default padding, margin, and sets box-sizing to border-box for all elements */
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: "Times New Roman", Times, serif;
+  font-size: medium;
+  color: black;
+}
+
+/* Styles the body with a dark background, full height, and centers content */
+body {
+  background: #003049;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.calculator {
+  /* Styles the main container with a lighter background, padding, and rounded corners */
+  background: #669bbc;
+  padding: 20px;
+  width: 300px;
+  height: auto;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+}
+
+.title {
+  margin-bottom: 10px;
+  font-size: 30px;
+}
+
+.screen {
+  border-radius: 7px;
+  background-color: white;
+  margin-bottom: 10px;
+  display: flex;
+  flex-direction: column;
+}
+
+.text-input,
+.text-result {
+  padding: 10px;
+  height: 50px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-end; 
+}
+
+.text-result{
+  font-size: 30px
+}
+
+.text-input{
+  font-size: 20px;
+  border-bottom: 1px solid #669bbc; 
+}
+
+.pannel {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  grid-gap: 3px;
+}
+
+button {
+  border-width: 0px;
+  border-radius: 7px;
+  height: 2.5rem;
+  background-color: white;
+}
