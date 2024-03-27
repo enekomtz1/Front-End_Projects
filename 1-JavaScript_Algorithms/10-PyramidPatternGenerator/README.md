@@ -2,7 +2,7 @@
 
 ## Introduction
 
-The Pyramid Pattern Generator is a JavaScript program that prints a pyramid shape with 'n' levels using the '#' character to the console. The pyramid is symmetrically aligned in the center, with spaces on both sides of the '#' characters to maintain the shape.
+The Pyramid Pattern Generator is a JavaScript program that prints a pyramid shape with `n` levels using the `#` character to the console. The pyramid is symmetrically aligned in the center, with spaces on both sides of the `#` characters to maintain the shape.
 
 ## Table of Contents
 
