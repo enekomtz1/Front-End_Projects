@@ -23,9 +23,12 @@
 
 function steps(n) {
   console.log("Step String Pattern of " + n);
+
   // Working with rows:
   for (let row = 1; row < n + 1; row++) {
     let line = "";
+
+    // Working with columns:
     for (let column = 1; column < n + 1; column++) {
       if (column <= row) {
         line += "#";
