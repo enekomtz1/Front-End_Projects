@@ -7,7 +7,6 @@ The Pyramid Pattern Generator is a JavaScript program that prints a pyramid shap
 ## Table of Contents
 
 - [Screenshot](#screenshot)
-- [Introduction](#introduction)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Features](#features)
