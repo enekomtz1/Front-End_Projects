@@ -5,7 +5,6 @@
 The FizzBuzz program is a classic coding challenge that outputs numbers from 1 to a given number `n`. For multiples of three, it prints "Fizz" instead of the number, and for the multiples of five, it prints "Buzz". For numbers which are multiples of both three and five, it prints "FizzBuzz".
 
 ## Table of Contents
-
 - [Screenshot](#screenshot)
 - [Installation](#installation)
 - [Usage](#usage)
