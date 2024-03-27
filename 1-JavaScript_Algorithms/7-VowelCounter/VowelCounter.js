@@ -13,7 +13,7 @@
 // 1st method: Using match() function
 function numVowels_1(str) {
   // Vowel match:
-  const matches = str.toLowerCase().match(/[aeiou]/gi);
+  const matches = str.match(/[aeiou]/gi);
 
   // Count the nomber of vowels:
   const numVowels = matches ? matches.length : 0;
