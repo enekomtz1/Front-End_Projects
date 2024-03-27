@@ -24,8 +24,11 @@ function sortStr(str) {
 
 // Compare the 2 sorted strings:
 function anagrams(str1, str2) {
-  return sortStr(str1) === sortStr(str2);
+  const anagramChecker = sortStr(str1) === sortStr(str2);
+  const result =
+    "Are '" + str1 + "' and '" + str2 + "' anagrams?: " + anagramChecker;
+  return result;
 }
 
-console.log(anagrams("RAIL! SAFETY!", "fairy tales")); //
-console.log(anagrams("Hi therre", "Bye there"));
+console.log(anagrams("RAIL! SAFETY!", "fairy tales")); // Output: True
+console.log(anagrams("Hi therre", "Bye there")); // Output: False

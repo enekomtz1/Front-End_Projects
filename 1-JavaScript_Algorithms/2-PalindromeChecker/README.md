@@ -49,11 +49,11 @@ console.log(palindrome("hello")); // Output: false
 
 ## Contributors
 
-This project is currently maintained by a solo developer. Contributions, suggestions, and feedback are welcome.
+This project is currently maintained by a single developer. New contributors are welcome to propose changes or enhancements by submitting pull requests or issues on the project's repository.
 
 ## License
 
-This project is open-sourced under the MIT License.
+This project is open-sourced under the [MIT License](https://opensource.org/licenses/MIT).
 
 ## Links
 

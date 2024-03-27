@@ -64,10 +64,10 @@ Here are a few examples of how `chunk` can be used:
     ```
 
 ## Contributors
-This function is currently maintained by the original author. Contributions for improvement or bug fixing are welcome.
+This project is currently maintained by a single developer. New contributors are welcome to propose changes or enhancements by submitting pull requests or issues on the project's repository.
 
 ## License
-Array Chunker is released under the [MIT License](https://opensource.org/licenses/MIT).
+This project is open-sourced under the [MIT License](https://opensource.org/licenses/MIT).
 
 ## Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/enekomtz1)

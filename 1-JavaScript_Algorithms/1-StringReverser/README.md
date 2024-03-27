@@ -11,6 +11,7 @@ This project contains a simple JavaScript function `reverse` that reverses a giv
 - [Features](#features)
 - [Contributors](#contributors)
 - [License](#license)
+- [Links](#Links)
 
 ## Installation
 
@@ -35,8 +36,12 @@ console.log(reversedString); // Outputs: "!dlrow olleH"
 
 ## Contributors
 
-This project is currently maintained by the original author. If you are interested in contributing, please feel free to submit a pull request.
+This project is currently maintained by a single developer. New contributors are welcome to propose changes or enhancements by submitting pull requests or issues on the project's repository.
 
 ## License
 
-This string reverse algorithm is open-sourced under the MIT license. Feel free to use it in your projects as needed.
+This project is open-sourced under the [MIT License](https://opensource.org/licenses/MIT).
+
+## Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/enekomtz1)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/enekomtz)

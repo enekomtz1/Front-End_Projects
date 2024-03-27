@@ -48,10 +48,10 @@ console.log(maxChar("apple 1231111")); // Output: '1: 5'
 In these examples, the function returns the character that occurs the most in the string along with its occurrence count.
 
 ## Contributors
-This function is currently maintained by the original author. Contributions for improvement or bug fixing are welcome.
+This project is currently maintained by a single developer. New contributors are welcome to propose changes or enhancements by submitting pull requests or issues on the project's repository.
 
 ## License
-`maxChar` is open-sourced software licensed under the MIT license.
+This project is open-sourced under the [MIT License](https://opensource.org/licenses/MIT).
 
 ## Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/enekomtz1)

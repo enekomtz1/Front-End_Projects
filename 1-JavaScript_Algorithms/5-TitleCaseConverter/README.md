@@ -30,7 +30,7 @@ console.log(capitalize("hello github, i hope you're having as much fun as me!"))
 - **Easy Integration**: Can be easily integrated into any JavaScript project.
 
 ## Contributors
-This function is currently maintained by the original author. Contributions for improvement or bug fixing are welcome.
+This project is currently maintained by a single developer. New contributors are welcome to propose changes or enhancements by submitting pull requests or issues on the project's repository.
 
 ## License
 This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
